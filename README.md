@@ -1,4 +1,10 @@
-Run with
+Install dependencies with
+
+```sh
+composer install
+```
+
+and run with
 
 ```sh
 composer prod:start
