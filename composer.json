@@ -51,7 +51,7 @@
     "catpaw/core": "^1.0",
     "amphp/amp": "^3.0",
     "amphp/file": "^3.0",
-    "catpaw/web": "^1.0"
+    "catpaw/web": "1.0.68"
   },
   "autoload-dev": {
     "psr-4": {
