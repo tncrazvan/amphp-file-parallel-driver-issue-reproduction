@@ -1,7 +1,7 @@
 Install dependencies with
 
 ```sh
-composer install
+composer update
 ```
 
 and run with
